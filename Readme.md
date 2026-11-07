@@ -79,6 +79,6 @@ Once built, future coding sessions simply run:
 
 ## 💬 Community & Feedback
 
-Read the full background story on [dev.to](https://dev.to) *(link your article here)*.
+Read the full background story on [dev.to](https://dev.to/fcn06/why-human-documentation-fails-coding-agents-and-how-i-asked-gemini-claude-and-openai-to-fix-it-5dc8).
 
 Issues, suggestions, and feedback on invariant extraction and context routing are welcome!

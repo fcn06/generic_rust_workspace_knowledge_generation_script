@@ -1,0 +1,52 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+[Dd]esktop.ini
+
+# Editors and IDEs
+.idea/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+*.sublime-workspace
+*.sublime-project
+*.code-workspace
+
+# Temporary & Swap Files
+*.swp
+*.swo
+*~
+*.bak
+*.tmp
+*.temp
+.#*
+\#*#
+
+# Logs & Diagnostics
+*.log
+
+# Environment & Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Rust Artifacts (Cargo & Compilation)
+/target/
+**/*.rs.bk
+*.profraw
+*.profdata
+
+# Agent & Local Scratch Dirs
+.gemini/
+.antigravity/
+scratch/
+tmp/
+
